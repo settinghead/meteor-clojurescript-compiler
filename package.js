@@ -1,6 +1,7 @@
 Package.describe({
   "name": "settinghead:cljs-compiler",
   "summary": "ClojureScript compiler for Meteor based on cljs-bootstrap. No JVM is required.",
+  "version": "0.0.1",
   "git": "https://github.com/settinghead/meteor-clojurescript.git"
 });
 
